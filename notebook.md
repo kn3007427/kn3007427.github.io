@@ -1,23 +1,50 @@
 ## Table of Contents
-
+- [Blocks] (#blocks)
+- [Concepts] (#concepts)
+- [Vocabulary] (#vocabulary)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
  
 
 
+## Blocks
+Hat block - The starting Block that connects blocks together and starts command. It looks like a hat.
+Stack / Command Block - Blocks you stack together that command the robot what to do. They are shaped to attach other blocks above or below other blocks.
+C-block - They check if the condition is true or false, They can loop the block(s) within them. They resemble a C.
+Reporter / Oval Block - Reports value in the form of numbers, they can be used and fit in any block with oval input.
+Boolean / Hexagonal Block - It returns a condition as either true or false, It fits in any block with a hexagonal shape.
+Repeat Block - The repeat block is a C-block that can loop other stack blocks inside it.
+Wait Until Block - A block that accepts the Boolean Block conditions. The project wont continue until the Wait Until block reports as true.
+If Then Blocks - It is a C-Block, it only checks the Boolean Block conditions once if TRUE it will run, if FALSE it will be skipped.
+Forever Blocks - A C-Block that repeats any block inside forever. It can be exited by placing a break block inside.
 
+##Concept
+Sequence
+Parameters
+Loops / Iteration
+Sensors
+Booleans and Conditions
+sence-Think-Act
+Comparisons
+Cordinates
+Conditionals
+Patterns - Is
 
-
-
-
-
-
-
-
-
-
-
+##Vocabulary
+VR Robot + Playground
+Programing Language + Proyect
+Behavior + command
+Drivetrain
+Loop + Iteration
+Sensor + Bumper Sensor 
+Boolean + Condition + TRUE/FALSE
+Distance Sensor +Threshod
+Coordinate Plane +X/Y Cordinates
+Location Sensor - It repots the (X,Y) position and the location angle 
+Comment
+Eye Sensor - Is like an eye it can detect objects and colors
+Conditional Statement 
 
 
 
