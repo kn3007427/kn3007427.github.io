@@ -33,7 +33,7 @@ Patterns - Is
 
 ##Vocabulary
 VR Robot + Playground
-Programing Language + Proyect
+Programing Language + Proyect -is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
 Behavior + command
 Drivetrain
 Loop + Iteration
