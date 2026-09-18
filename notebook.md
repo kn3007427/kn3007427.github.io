@@ -19,7 +19,7 @@ Wait Until Block - A block that accepts the Boolean Block conditions. The projec
 If Then Blocks - It is a C-Block, it only checks the Boolean Block conditions once if TRUE it will run, if FALSE it will be skipped.
 Forever Blocks - A C-Block that repeats any block inside forever. It can be exited by placing a break block inside.
 
-##Concept
+## Concept
 Sequence
 Parameters
 Loops / Iteration
@@ -31,7 +31,7 @@ Cordinates
 Conditionals
 Patterns - Is
 
-##Vocabulary
+## Vocabulary
 VR Robot + Playground
 Programing Language + Proyect -is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
 Behavior + command
