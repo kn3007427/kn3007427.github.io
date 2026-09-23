@@ -10,43 +10,395 @@
 
 ## Blocks
 Hat block - The starting Block that connects blocks together and starts command. It looks like a hat.
+
+
+
+
 Stack / Command Block - Blocks you stack together that command the robot what to do. They are shaped to attach other blocks above or below other blocks.
+
+
+
+
 C-block - They check if the condition is true or false, They can loop the block(s) within them. They resemble a C.
+
+
+
+
 Reporter / Oval Block - Reports value in the form of numbers, they can be used and fit in any block with oval input.
+
+
+
+
 Boolean / Hexagonal Block - It returns a condition as either true or false, It fits in any block with a hexagonal shape.
+
+
+
+
 Repeat Block - The repeat block is a C-block that can loop other stack blocks inside it.
+
+
+
+
 Wait Until Block - A block that accepts the Boolean Block conditions. The project wont continue until the Wait Until block reports as true.
+
+
+
+
 If Then Blocks - It is a C-Block, it only checks the Boolean Block conditions once if TRUE it will run, if FALSE it will be skipped.
+
+
+
+
 Forever Blocks - A C-Block that repeats any block inside forever. It can be exited by placing a break block inside.
 
+
+
+
+
+
 ## Concept
+
+
+
+
 Sequence
+
+
+
+
 Parameters
+
+
+
+
 Loops / Iteration
+
+
+
+
 Sensors
+
+
+
+
 Booleans and Conditions
+
+
+
+
 sence-Think-Act
+
+
+
+
 Comparisons
+
+
+
+
 Cordinates
+
+
+
+
 Conditionals
+
+
+
+
 Patterns - Is
 
+
+
+
+
+
 ## Vocabulary
+
 VR Robot + Playground
-Programing Language + Proyect -is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
+<details>
+<summary><strong>VR Robot + Playground</strong></summary>
+
+**Definition:**  
+A Boolean is a value that can only be TRUE or FALSE. A condition is a question or statement that produces a Boolean result.
+
+**In My Own Words:**  
+The program checks a condition like a yes-or-no question. The answer is either TRUE or FALSE, and the program can use that answer to decide what to do.
+
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
+
+
+
+
+Programing Language + Proyect 
+
+<details>
+<summary><strong></strong>Programing Language + Proyect</summary>
+
+**Definition:**  
+-is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
+
+**In My Own Words:**  
+is the things you tell the computer to do
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
+
+
+
+
 Behavior + command
+
+<details>
+<summary><strong></strong>Programing Language + Proyect</summary>
+
+**Definition:**  
+-is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
+
+**In My Own Words:**  
+is the things you tell the computer to do
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
+
+
+
+
 Drivetrain
+
+<details>
+<summary><strong></strong>Programing Language + Proyect</summary>
+
+**Definition:**  
+-is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
+
+**In My Own Words:**  
+is the things you tell the computer to do
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
+
+
+
+
 Loop + Iteration
-Sensor + Bumper Sensor 
+
+<details>
+<summary><strong></strong>Programing Language + Proyect</summary>
+
+**Definition:**  
+-is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
+
+**In My Own Words:**  
+is the things you tell the computer to do
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
+
+
+
+
+Sensor + Bumper Sensor
+
+<details>
+<summary><strong></strong>Programing Language + Proyect</summary>
+
+**Definition:**  
+-is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
+
+**In My Own Words:**  
+is the things you tell the computer to do
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
+
+
+
+
 Boolean + Condition + TRUE/FALSE
+
+<details>
+<summary><strong></strong>Programing Language + Proyect</summary>
+
+**Definition:**  
+-is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
+
+**In My Own Words:**  
+is the things you tell the computer to do
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
+
+
+
+
 Distance Sensor +Threshod
+
+<details>
+<summary><strong></strong>Programing Language + Proyect</summary>
+
+**Definition:**  
+-is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
+
+**In My Own Words:**  
+is the things you tell the computer to do
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
+
+
+
+
+
 Coordinate Plane +X/Y Cordinates
+
+<details>
+<summary><strong></strong>Programing Language + Proyect</summary>
+
+**Definition:**  
+-is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
+
+**In My Own Words:**  
+is the things you tell the computer to do
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
+
+
+
+
 Location Sensor - It repots the (X,Y) position and the location angle 
+
+<details>
+<summary><strong></strong>Programing Language + Proyect</summary>
+
+**Definition:**  
+-is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
+
+**In My Own Words:**  
+is the things you tell the computer to do
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
+
+
+
+
+
 Comment
+
+<details>
+<summary><strong></strong>Programing Language + Proyect</summary>
+
+**Definition:**  
+-is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
+
+**In My Own Words:**  
+is the things you tell the computer to do
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
+
+
+
+
 Eye Sensor - Is like an eye it can detect objects and colors
+
+<details>
+<summary><strong></strong>Programing Language + Proyect</summary>
+
+**Definition:**  
+-is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
+
+**In My Own Words:**  
+is the things you tell the computer to do
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
+
+
+
+
 Conditional Statement 
 
+<details>
+<summary><strong></strong>Programing Language + Proyect</summary>
 
+**Definition:**  
+-is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
+
+**In My Own Words:**  
+is the things you tell the computer to do
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
 
 
 
