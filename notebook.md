@@ -213,7 +213,7 @@ Loop + Iteration
 
 
 **In My Own Words:**  
-is the things you tell the computer to do
+is when you teel to the computer to repeat something again and again. 
 **Example:**  
 A Bumper Sensor can be used to check whether the bumper is pressed.
 
