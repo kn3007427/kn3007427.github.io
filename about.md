@@ -2,8 +2,7 @@
 
 Hello! I am KN.
 
-Write a short paragraph about your interests, skills, or goals.
-I want to be a surgeon because I think I can help the people that dont speak enghlish to feel more comfortable when they go to the doctor cause I know   
+I want to be a surgeon because I think I can help the people that don't speak English to feel more comfortable when they go to the doctor cause I know that if you don't speak English, trying to deal with a health issue can be very uncomfortable; it might even lead you to downplay how you're feeling just to avoid going to the doctor.  
 
 ## Navigation
 
