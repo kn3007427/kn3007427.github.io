@@ -121,13 +121,12 @@ VR Robot + Playground
 <summary><strong>VR Robot + Playground</strong></summary>
 
 **Definition:**  
-A Boolean is a value that can only be TRUE or FALSE. A condition is a question or statement that produces a Boolean result.
-
+environment where the robot can interact and follow instructions 
 **In My Own Words:**  
-The program checks a condition like a yes-or-no question. The answer is either TRUE or FALSE, and the program can use that answer to decide what to do.
 
+is when you have a virtual VRX robot and you give instructions to it to realize in a play grauund 
 **Example:**  
-A Bumper Sensor can be used to check whether the bumper is pressed.
+when you program a robot.
 
 Pressed = TRUE  
 Not Pressed = FALSE
@@ -140,16 +139,16 @@ Not Pressed = FALSE
 Programing Language + Proyect 
 
 <details>
-<summary><strong></strong>Programing Language + Proyect</summary>
+<summary><strong>Programing Language + Proyect </</summary>
 
 **Definition:**  
--is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+-is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run.
 
 
 **In My Own Words:**  
-is the things you tell the computer to do
+is the things you tell the computer to do.
 **Example:**  
-A Bumper Sensor can be used to check whether the bumper is pressed.
+when you programing code 
 
 Pressed = TRUE  
 Not Pressed = FALSE
@@ -162,10 +161,9 @@ Not Pressed = FALSE
 Behavior + command
 
 <details>
-<summary><strong></strong>Programing Language + Proyect</summary>
+<summary><strong></strong>Behavior + command</summary>
 
 **Definition:**  
--is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
 
 
 **In My Own Words:**  
@@ -179,12 +177,10 @@ Not Pressed = FALSE
 </details>
 
 
-
-
 Drivetrain
 
 <details>
-<summary><strong></strong>Programing Language + Proyect</summary>
+<summary><strong></strong></summary>
 
 **Definition:**  
 -is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
@@ -209,13 +205,13 @@ Loop + Iteration
 <summary><strong></strong>Programing Language + Proyect</summary>
 
 **Definition:**  
--is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+-
 
 
 **In My Own Words:**  
-is when you teel to the computer to repeat something again and again. 
+Is when the code repeats again and again. 
 **Example:**  
-A Bumper Sensor can be used to check whether the bumper is pressed.
+The C-Block 
 
 Pressed = TRUE  
 Not Pressed = FALSE
@@ -231,7 +227,7 @@ Sensor + Bumper Sensor
 <summary><strong></strong>Programing Language + Proyect</summary>
 
 **Definition:**  
--is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
 
 
 **In My Own Words:**  
