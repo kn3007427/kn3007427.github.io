@@ -61,52 +61,52 @@ Forever Blocks - A C-Block that repeats any block inside forever. It can be exit
 
 
 
-Sequence
+Sequence - A following of one thing after another
 
 
 
 
-Parameters
+Parameters - A constant in an equation that varies in other equations of the same general form, especially such a constant in the equation of a curve or surface that can be varied to represent a family of curves or surfaces.
 
 
 
 
-Loops / Iteration
+Loops / Iteration - A length of line, thread, ribbon, or other thin material that is curved or doubled over making an opening.
 
 
 
 
-Sensors
+Sensors - A device, such as a photoelectric cell, that receives and responds to a signal or stimulus.
 
 
 
 
-Booleans and Conditions
+Booleans and Conditions - Booleans are a data type representing one of two possible truth values: true or false. Conditions are Boolean expressions that evaluate to either true or false, serving as the decision-making mechanism in programming.
 
 
 
 
-sence-Think-Act
+sence-Think-Act - s the fundamental operational paradigm for autonomous robots and AI agents, describing how they intelligently interact with their environment.
 
 
 
 
-Comparisons
+Comparisons - The act of comparing or the process of being compared.
+
+
+
+    
+Cordinates - are numerical values that define the specific location of a point within a digital space, typically represented as an ordered pair (x, y) for 2D graphics or a triplet (x, y, z) for 3D environments.
 
 
 
 
-Cordinates
+Conditionals -  are constructs that allow a program to make decisions and control execution flow based on whether a specific condition evaluates to true or false.
 
 
 
 
-Conditionals
-
-
-
-
-Patterns - Is
+Patterns - is a reusable solution to a common problem that occurs repeatedly in software design.
 
 
 
@@ -164,12 +164,12 @@ Behavior + command
 <summary><strong></strong>Behavior + command</summary>
 
 **Definition:**  
-
-
+Behavior refers to the observable actions, reactions, or manner of acting of an organism, system, or machine in response to internal or external stimuli.
+Command denotes an authoritative order, directive, or instruction that expects obedience or triggers a specific action.
 **In My Own Words:**  
 is the things you tell the computer to do
 **Example:**  
-A Bumper Sensor can be used to check whether the bumper is pressed.
+When you do an specific action that ells the computer what have to do
 
 Pressed = TRUE  
 Not Pressed = FALSE
