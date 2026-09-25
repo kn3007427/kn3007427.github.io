@@ -168,7 +168,7 @@ Command denotes an authoritative order, directive, or instruction that expects o
 **In My Own Words:**  
 -Is the things you tell the computer to do
 **Example:**  
--When you do an specific action that ells the computer what have to do
+-When you do an specific action that tells the computer what have to do
 
 Pressed = TRUE  
 Not Pressed = FALSE
@@ -182,13 +182,13 @@ Drivetrain
 <summary><strong></strong>Drivetrain</summary>
 
 **Definition:**  
--Is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run
+
 
 
 **In My Own Words:**  
--Is the things you tell the computer to do
+
 **Example:**  
-A Bumper Sensor can be used to check whether the bumper is pressed.
+
 
 Pressed = TRUE  
 Not Pressed = FALSE
@@ -269,11 +269,11 @@ Distance Sensor +Threshod
 <summary><strong></strong>Distance Sensor +Threshod</summary>
 
 **Definition:**  
-
+-Tells you the distance between the robot and the things around the robot  
 
 
 **In My Own Words:**  
-
+-Tells you the space between the robot and something else 
 **Example:**  
 
 
@@ -292,7 +292,7 @@ Coordinate Plane +X/Y Cordinates
 <summary><strong></strong>Coordinate Plane +X/Y Cordinates</summary>
 
 **Definition:**  
-
+- is a form to knowr
 
 
 **In My Own Words:**  
@@ -318,9 +318,9 @@ Location Sensor
 
 
 **In My Own Words:**  
-
+-Is a thing that tells you where you are 
 **Example:**  
-
+when yo
 
 Pressed = TRUE  
 Not Pressed = FALSE
@@ -363,7 +363,7 @@ Eye Sensor
 
 
 **In My Own Words:**  
-
+-Is the robot eye 
 **Example:**  
 
 
