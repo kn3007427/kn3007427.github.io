@@ -183,12 +183,12 @@ Drivetrain
 
 **Definition:**  
 
-
+The components of an automotive vehicle that connect the transmission with the driving axles and include the universal joint and drive shaft.
 
 **In My Own Words:**  
-
+Is the part of the automovile that connect parts of the vehicle 
 **Example:**  
-
+Engine up front, long propeller shaft runs to a rear differential that drives the back wheels.
 
 Pressed = TRUE  
 Not Pressed = FALSE
@@ -204,13 +204,15 @@ Loop + Iteration
 <summary><strong></strong>Loop + Iteration</summary>
 
 **Definition:**  
-- A block of code that repeats again and again 
+sloop is the code structure (a for, while, or do-while statement) that repeats a block of instructions. 
 
-
+Iteration — one single pass through that loop body.  A loop can undergo many iterations.
 **In My Own Words:**  
--Is when the code repeats again and again. 
+Loop = the rule that says "do this over and over"
+Iteration = one single time you actually do it
 **Example:**  
-The C-Block 
+I use a software to make my computer click over and over.
+I interact with the bottom with one click
 
 Pressed = TRUE  
 Not Pressed = FALSE
@@ -226,13 +228,14 @@ Sensor + Bumper Sensor
 <summary><strong></strong>Sensor + Bumper Sensor</summary>
 
 **Definition:**  
-
-
+A sensor is a device that lets a robot (or machine) detect something about its environment and report it to the computer. 
+A bumper sensor is the simplest kind of sensor
 
 **In My Own Words:**  
-
+Think of it like your senses — eyes, ears, skin. A robot can't see or feel, so sensors are how it "experiences" the world.
+ It's like a doorbell button. 
 **Example:**  
-
+That's it — a bumper sensor is a yes/no touch detector on the front (or sides) of a robot. 
 Pressed = TRUE  
 Not Pressed = FALSE
 
@@ -247,14 +250,17 @@ Boolean + Condition + TRUE/FALSE
 <summary><strong></strong>Boolean + Condition + TRUE/FALSE</summary>
 
 **Definition:**  
-
-
-
+A Boolean is a variable that can only be one of two things: True or False.  Nothing else.
+These are the only two values a Boolean can hold. 
+A condition is just a question that answers True or False. It's what you put inside an if or while.
 **In My Own Words:**  
+ A light switch. It's either ON (True) or OFF (False). There's no "half on."
+ They're all the same idea at different levels: the type, the question, and the answer.
+
 
 **Example:**  
-
-
+ Is the robot close to a wall?
+It answers True (yes, it's close) or False (no, it's far), and the code picks a path based on that answer.
 Pressed = TRUE  
 Not Pressed = FALSE
 
@@ -275,7 +281,7 @@ Distance Sensor +Threshod
 **In My Own Words:**  
 -Tells you the space between the robot and something else 
 **Example:**  
-
+A car sensor beep more faster dependting how near are you of a object 
 
 Pressed = TRUE  
 Not Pressed = FALSE
@@ -296,9 +302,9 @@ Coordinate Plane +X/Y Cordinates
 
 
 **In My Own Words:**  
-
+Are numbners that means positions
 **Example:**  
-
+I give a robot one cordinate to go 
 
 Pressed = TRUE  
 Not Pressed = FALSE
@@ -320,7 +326,7 @@ Location Sensor
 **In My Own Words:**  
 -Is a thing that tells you where you are 
 **Example:**  
-when yo
+when yo see on google maps, shjow you were you are
 
 Pressed = TRUE  
 Not Pressed = FALSE
@@ -337,13 +343,13 @@ Comment
 <summary><strong></strong>Comment</summary>
 
 **Definition:**  
-
+A comment is a note in your code that the computer ignores — it's written for humans to read.
 
 
 **In My Own Words:**  
-
+: It's like writing a sticky note on a recipe card.
 **Example:**  
-
+The # lines are comments — the computer skips them. 
 
 Pressed = TRUE  
 Not Pressed = FALSE
@@ -366,7 +372,7 @@ Eye Sensor
 -Is the robot eye 
 **Example:**  
 
-
+the robots dont crush to anything by his eye sensonrs
 Pressed = TRUE  
 Not Pressed = FALSE
 
@@ -381,13 +387,13 @@ Conditional Statement
 <summary><strong></strong>Conditional Statement</summary>
 
 **Definition:**  
-
+A conditional statement is code that says "if this is true, do X; otherwise, do Y."
 
 
 **In My Own Words:**  
-
+It's like a fork in the road.
 **Example:**  
-
+The program checks a condition (is it raining?) and then picks one path based on the answer.
 
 Pressed = TRUE  
 Not Pressed = FALSE
