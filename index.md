@@ -2,7 +2,7 @@
 
 ## Projects
 
-- Project 1: Description
+-[VEX VR](vex-vr.md) : (This page shows my work in VEX cpde)
 
 - Project 2: Description
 
