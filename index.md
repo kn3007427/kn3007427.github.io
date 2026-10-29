@@ -3,6 +3,8 @@
 ## Projects
 
 -[VEX VR](vex-vr.md) : (This page shows my work in VEX cpde)
+engineering-notebook.md
+
 
 - Project 2: Description
 
