@@ -30,71 +30,38 @@
 
 ## Day 2
 
-— Date: __________
+— Date: 11/04/2026
 
 ### 1. What was your goal or plan for today?
-- What were you trying to accomplish?
-- What steps did you plan to take?
-- What materials, parts, or tools did you need?
+-The goal of today was up date the engendering notebook, do a cardboard robot in scale and make a track 
 
 ### 2. What did you work on today?
-- What did you design, sketch, build, or program?
-- What changes or improvements did you make?
-- What tasks did you complete?
-- Include pictures, diagrams, or measurements if applicable.
+-I did the robot and the scale and my team made the track 
 
-### 3. What tests or experiments did you perform?
-- What were you trying to test or discover?
-- What did you predict would happen?
-- What were your results or observations?
-- Did your design or solution work as expected?
+
 
 ### 4. What challenges did you encounter?
-- What problems, errors, or failures occurred?
-- What did you try to fix or improve?
-- What worked or didn't work?
-- What would you change about your design or approach?
+- make the scale was a bit difficult 
 
 ### 5. What did you learn, and what comes next?
-- What new skills, concepts, or techniques did you learn?
-- What did you accomplish?
-- What would you do differently?
-- What are your next steps for the next class?
+-I learned how to make a scale 
 
 ---------
 
 ## Day 3
 
-— Date: __________
+— Date: 11/06/2026
 
 ### 1. What was your goal or plan for today?
-- What were you trying to accomplish?
-- What steps did you plan to take?
-- What materials, parts, or tools did you need?
+- finish the robot and make the track in scale
 
 ### 2. What did you work on today?
-- What did you design, sketch, build, or program?
-- What changes or improvements did you make?
-- What tasks did you complete?
-- Include pictures, diagrams, or measurements if applicable.
+-I worked on finish the robot 
 
-### 3. What tests or experiments did you perform?
-- What were you trying to test or discover?
-- What did you predict would happen?
-- What were your results or observations?
-- Did your design or solution work as expected?
 
 ### 4. What challenges did you encounter?
-- What problems, errors, or failures occurred?
-- What did you try to fix or improve?
-- What worked or didn't work?
-- What would you change about your design or approach?
+- I didn't knew how to do the track on scale so I tried to finish the  robot 
 
-### 5. What did you learn, and what comes next?
-- What new skills, concepts, or techniques did you learn?
-- What did you accomplish?
-- What would you do differently?
-- What are your next steps for the next class?
 
 ---------
 
