@@ -37,6 +37,7 @@
 
 ### 2. What did you work on today?
 -I did the robot and the scale and my team made the track 
+<img width="4032" height="3024" alt="IMG_1395 (1)" src="https://github.com/user-attachments/assets/79700287-2792-46a4-ae24-cc3b52db5b82" /><img width="3024" height="4032" alt="IMG_1393 (1)" src="https://github.com/user-attachments/assets/440f7363-ac04-46ab-914a-7963f1d3891e" />
 
 
 
@@ -53,10 +54,11 @@
 — Date: 11/06/2026
 
 ### 1. What was your goal or plan for today?
-- finish the robot and make the track in scale
+- finish the robot cause the teacher said that we need to modify it to remove the vateri easily and make the track in scale
 
 ### 2. What did you work on today?
--I worked on finish the robot 
+-I worked on finish the robot I put a support for the battery but it still moves " />
+ 
 
 
 ### 4. What challenges did you encounter?
