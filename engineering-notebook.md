@@ -67,9 +67,47 @@
 
 ---------
 
+## Day 4
+
+— Date: 11/10/2026
+
+### 1. What was your goal or plan for today?
+- Update my engineering notebook and measure the track .
+
+### 2. What did you work on today?
+- Today I woked on updarte my engineering notebook and I help a bit with make again the track
 
 
 
+### 4. What challenges did you encounter?
+- we did not remember exactly how was the track 
+
+
+---------
+
+## Day 5
+
+Nov/13/2026
+ 
+Cardboard measurement length:35.56
+
+Cardboard measurement width:35.56
+
+Robot measurement length:26.416 
+
+Robot measurement width:26.416
+
+Length scale: 7.4:74
+
+Width scale: 7.4.74
+
+Smallest width of the model racetrack: ___mm
+Apply scale: smallest width X scale = ___ mm
+
+Convert to cm =
+
+Reflection: what you learned today
+anything else you did if there was extra time
 
 
 
