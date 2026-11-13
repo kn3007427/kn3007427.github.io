@@ -101,8 +101,8 @@ Length scale: 7.4:74
 
 Width scale: 7.4.74
 
-Smallest width of the model racetrack: ___mm
-Apply scale: smallest width X scale = ___ mm
+Smallest width of the model racetrack: 647.47mm
+Apply scale: smallest width X scale = 155 mm
 
 Convert to cm =
 
