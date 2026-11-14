@@ -106,9 +106,12 @@ Apply scale: smallest width X scale = 155 mm
 
 Convert to cm =
 
-Reflection: what you learned today
-anything else you did if there was extra time
+Reflection:
+Karol Nunez Ramos [STUDENT] <karol.3007427@nv.ccsd.net>
+5:18 PM (0 minutes ago)
+to Daniel
 
+Today I learned how to measure the length and width of objects and use scales to make accurate measurements. I also learned how to convert millimeters into centimeters. One challenge was making sure my measurements were correct, but I tried my best to complete the activity. I think this activity helped me improve my measuring and math skills. If I had extra time, I would double-check my measurements and practice more.
 
 
 
