@@ -4,6 +4,8 @@
 - [Day 3](#day-3)
 - [Day 4](#day-4)
 - [Day 5](#day-5)
+- [Day 6](#day-6)
+
 
 
 ## Day 1
@@ -113,7 +115,26 @@ to Daniel
 
 Today I learned how to measure the length and width of objects and use scales to make accurate measurements. I also learned how to convert millimeters into centimeters. One challenge was making sure my measurements were correct, but I tried my best to complete the activity. I think this activity helped me improve my measuring and math skills. If I had extra time, I would double-check my measurements and practice more.
 
+---------
 
+## Day 6
+
+— Date: 11/17/2026
+
+### 1. What was your goal or plan for today?
+- Update my engineering notebook and measure the track .
+
+### 2. What did you work on today?
+- Today I worked on update my engineering notebook and in apply the scale in the track 
+<img width="3024" height="4032" alt="IMG_1415" src="https://github.com/user-attachments/assets/bc0f9aef-da72-4111-9eda-fc4012070442" /> <img width="3024" height="4032" alt="IMG_1413" src="https://github.com/user-attachments/assets/fb8bf311-0e7f-447e-93a0-d0fea2e62215" />
+
+
+
+### 4. What challenges did you encounter?
+- we needed to rebuild the track again to take measurements 
+
+
+---------
 
 
 
